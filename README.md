@@ -1,5 +1,5 @@
 # AutoClickerApp
-Da bi pristupili auto clickeru morate ga optvoriti u Visual Studio 2022 pa navise
+Da bi pristupili AutoClickeru morate ga optvoriti u Visual Studio 2022 pa navise
 -----------
 AutoClicker poseduje mogucnos koriscenja levog i desnog klika od 10cps do 20cps.
 -----------
